@@ -57,9 +57,9 @@ using the command _g++_. GCC is frequently pre-installed on machines anyway
 commonly used to make games. Please see installation instructions for
 [Linux](http://lazyfoo.net/tutorials/SDL/01_hello_SDL/linux/index.php) or
 [MacOS](http://lazyfoo.net/tutorials/SDL/01_hello_SDL/mac/index.php)
-3. __SDL2_ttf__ - An [extension library]
-(http://www.libsdl.org/projects/SDL_ttf/) to enable use of TTF fonts
-within SDL2 applications.
+3. __SDL2_ttf__ - An
+[extension library](http://www.libsdl.org/projects/SDL_ttf/)
+to enable use of TTF fonts within SDL2 applications.
 
 ## Compilation guide
 
